@@ -107,8 +107,7 @@ INSERT INTO `users` (`user_id`, `first_name`, `last_name`, `date_of_birth`, `ema
 (1, 'Joshua', 'Admin', '1987-07-11', 'joshua@admin.com', '555-555-5555', '19507 Evergreen Dr', '', 77379, 'Spring', 'admavatar.png', '96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e', 'adm'),
 (2, 'Jimmy', 'User', '2004-01-29', 'jimmy@user.com', '5225335454', '6978 Brooklyn Way', 'Apt 319', 60210, 'New York', 'bizarro.png', '96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e', 'user'),
 (3, 'Sandy', 'Surname', '2002-01-02', 'sandypandy@email.com', '5125335494', '17 Dont Know Rd', '', 54546, 'Seattle', 'sandy.jpg', '96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e', 'user'),
-(4, 'George', 'Test', '2013-12-31', 'george@test.com', '5221223656', 'Ostendeweg 13', '', 2384, 'Breitenfurt bei Wien', '62443731403ac.jpeg', '96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e', 'user'),
-(5, 'Joshua', 'Powell', '2016-02-13', 'user@hello.com', '+436765589760', 'Obere Donaustraße 97-99/1/39', '', 1020, 'Vienna', '62444072e58d6.png', '96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e', 'adm');
+(4, 'George', 'Test', '2013-12-31', 'george@test.com', '5221223656', 'Ostendeweg', '', 2384, 'Breitenfurt bei Wien', '62443731403ac.jpeg', '96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e', 'user'),
 
 --
 -- Indexes for dumped tables
