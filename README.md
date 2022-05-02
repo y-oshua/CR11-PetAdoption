@@ -1,8 +1,6 @@
 # PetAdoption
 
-This project consists of a landing page and a reviews page. Plain HTML, CSS, and JS were used.
-
-To view the pages simply clone this repo then open index.html / reviews.html into your browser.
+The following instructions assume you have XAMPP and Symfony installed. To view this project please clone this repo into the htdocs folder, import the database from the sql folder into MySQL. Open a command line interface within the project and run symfony server:start. You should be able to access the site at: localhost/PetAdoption-master/index.php
 
 This project was done as a solution to a end of the week project during my fullstack course at code factory.
 
